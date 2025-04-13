@@ -48,7 +48,7 @@ cd google-books-react-fastapi-app
 ### 3. Frontend Setup
 1. Navigate to the `frontend` folder:
    ```bash
-   cd ../frontend
+   cd ../google-books-ui
    ```
 2. Install dependencies:
    ```bash
